@@ -1,3 +1,5 @@
+HackerRank's 30 Days of Code Challenge  
+
 Where I try coding challenges on HackerRank! https://www.hackerrank.com/domains/tutorials/30-days-of-code  
 
 + Day 0: Hello, World 
